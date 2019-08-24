@@ -6,7 +6,7 @@
         <iframe src= "https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
       </p>
 
-    <h5>-STEF: Agent de quai ( 2 ans )</h5>   
+   <h5>-STEF: Agent de quai ( 2 ans )</h5>   
      <p>
         <img width="100" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></p>        
 
