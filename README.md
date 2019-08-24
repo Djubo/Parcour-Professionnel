@@ -4,9 +4,11 @@
     Au cours de ces années de services j'ai acquis de l'experience dans diverse compétences mais j'y ai surtout assimiler des valeurs et vertus ( ex: cohésion, rigueur, patience...)
   </p>
   
-  <p> 
+  <p>
+    <a>
     <img src="https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150" alt="_escadron de protection">
     <iframe src= "https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
+    </a>
   </p>
   
 <h4>-STEF - Agent de quai ( 2 ans )</h4>
