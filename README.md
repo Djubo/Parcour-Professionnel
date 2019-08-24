@@ -1,3 +1,10 @@
+<h4>-STEF: Agent de quai ( 2 ans )</h4>   
+     
+ <p><img width="100" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></p>  
+
+
+
+
 <h4>-Armée de l'Air: Fusilier commando ( 8 ans )</h4>
   <p>
     Après une formation de plusieur mois a Dijon, j'ai intégré l'unitée de l'escadron de protection de la base 705 a Tours. J'ai eu l'occasion a travers mes differentes missions de partir a l'étrangé (tadjikistan, afghanistan et le tchad).
@@ -15,8 +22,6 @@
 
 
 
-<h4>-STEF: Agent de quai ( 2 ans )</h4>   
-     
- <p><img width="100" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></p>        
+      
 
  
