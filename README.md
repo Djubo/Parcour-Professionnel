@@ -1,13 +1,6 @@
 <h4>-Elis: Agent de Servies ( 3 ans )</h4>
- <p>
-
-
-
-
-
-
-
-
+ <p>Tâches et missions variés dans le domaine de la distribution des services apportés au client. Objectif à réaliser, satisfaction client au coeur des préoccupations quotidienne. Possibilité d'évolution si la mobilité et la connaissance de l'outil informatique est réalisable et acquise. Elis est une compagnie qui est leader sur le marché de la location et la distribution de service de l'hygiène et du bien être à la personne. L'esprit de conquète et de résultat et de rétention de part de marché joue un rôle important dans la bonne conduite d'une carrière professionnel, il faut s'accrocher et ne pas renoncer, l'ambition de chacun ne doit mettre en péril, l'équilibre et l'harmonie de l'esprit d'équipe, mais elis est une compagnie avant gardiste, très enrichissent sur le plan personnel et professionnel</p>
+<img width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/6/61/Logo_Elis_RVB%403x.png" alt="Elis">
 
 
 
