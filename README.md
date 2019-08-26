@@ -5,7 +5,7 @@
 
 
 <h4>-STEF: Agent de quai ( 2 ans )</h4>   
- <p>Un métier en interimaire appris sur le tas en seulement quelques jours. Le "travail d'équipe" se résumait, à mon sens, à un Tétris grandeur nature.  
+ <p>Un métier en intérimaire appris sur le tas en seulement quelques jours. Le "travail d'équipe" se résumait, à mon sens, à un Tétris grandeur nature.  
  <p><img width="200" height="100" src= "https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG" >  
  <iframe src="https://giphy.com/embed/l41JRjlOiMismEPcI" width="220" height="100" frameBorder="0" class="giphy-embed" allowFullScreen> </iframe>
  <iframe src="https://giphy.com/embed/xYcYOOWUUPyW4" width="220" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
@@ -14,7 +14,7 @@
 
 <h4>-Armée de l'Air: Fusilier commando ( 8 ans )</h4>
   <p>
-    Après une formation de plusieurs mois qui se déroulait à Dijon, j'ai pu intégrer l'unitée de l'escadron de protection de la base 705 se trouvant à Tours. J'ai eu l'occasion, à travers mes différentes missions, de partir a l'étranger (Tadjikistan, Afghanistan et le Tchad).
+    Après une formation de plusieurs mois qui se déroulait à Dijon, j'ai pu intégrer l'unitée de l'escadron de protection de la base 705 se trouvant à Tours. J'ai eu l'occasion, à travers mes différentes missions, de partir à l'étranger (Tadjikistan, Afghanistan et le Tchad).
     Au cours de ces années de services j'ai acquis de l'expérience dans diverses compétences mais les valeurs et les vertus comme la cohésion, la rigueur et la patience m'ont été enseignées.
   
   <p>
